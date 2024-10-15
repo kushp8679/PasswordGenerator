@@ -77,3 +77,18 @@ To learn more about React Native, take a look at the following resources:
 - [Learn the Basics](https://reactnative.dev/docs/getting-started) - a **guided tour** of the React Native **basics**.
 - [Blog](https://reactnative.dev/blog) - read the latest official React Native **Blog** posts.
 - [`@facebook/react-native`](https://github.com/facebook/react-native) - the Open Source; GitHub **repository** for React Native.
+
+
+
+
+
+
+Technologies Used
+React Native: A popular framework for building mobile applications using React and JavaScript.
+JavaScript (ES6+): The primary programming language used to handle the password generation logic.
+React Hooks: Used for state management (useState) within the functional components.
+Expo or React Native CLI: (Optional) You can use either for bootstrapping and running the app. React Native CLI is used in this case, but Expo can be used as well for quicker setup and testing.
+Android/iOS Emulator or Physical Device: To test the app on mobile devices.
+
+
+
